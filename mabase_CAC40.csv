@@ -1,0 +1,42 @@
+action,prix,cap_boursiere,price_earning_ratio,beta,benefice_par_action,dividendes,action_en_circulation,secteur,effectif
+Accor SA (ACCP),"27,53","7,57","18,43","1,06","1,49","1,05 (2,84%)",270.932.350,Hôtels et motels,196020
+Air Liquide SA (AIRP),"120,05","55,21","25,38","0,79","4,73","2,70 (2,32%)",473.105.514,Fabrication de produits chimiques,67200
+ArcelorMittal S.A. (MT),"9,54","9,44",N/A,"2,07"," - 2,23","0,26 (1,87%)",1.012.079.421,Fer et acier,191000
+Atos SE (ATOS),"61,2","6,57","15,97","0,92","3,83","1,4 (2,78%)",108.632.710,Services informatiques,99906
+AXA SA (AXAF),"15,37","36,15","10,11","1,36","1,52","1,43 (9,68%)",2.386.592.828,Assurance (vie),99843
+BNP Paribas SA (BNPP),"26,75","33,06","4,31","1,63","6,21","3,10 (12,09%)",1.248.591.040,Banques (money center),198816
+Bouygues SA (BOUY),"28,53","11,03",9,"0,87","3,17","1,70 (6,36%)",379.828.120,Services de construction,133197
+Capgemini SE (CAPP),"75,38","12,82","15,06","1,1",5,"1,90 (2,73%)",169.028.781,Logiciels et programmation,219314
+Carrefour SA (CARR),"14,66","11,7","550,11","0,69","0,03","0,46 (3,14%)",797.807.965,Détaillants (épicerie),321383
+Danone SA (DANO),"58,4","36,73","19,78","0,68","2,95","2,10 (3,70%)",648.871.267,Transformation alimentaire,102449
+Crédit Agricole SA (CAGR),"6,7","19,18","4,49","1,69","1,49","0,70 (10,46%)",2.884.253.712,Banques régionales,73037
+Danone SA (DANO),"58,4","36,73","19,78","0,68","2,95","2,10 (3,70%)",648.871.267,Transformation alimentaire,102449
+Dassault Systemes SE (DAST),"121,65","33,21","52,05","0,69","2,34","0,70 (0,57%)",259.461.643,Logiciels et programmation,19361
+Airbus Group SE (AIR),"57,04","46,4",N/A,"1,74"," - 1,76","1,53 (2,86%)",782.310.505,Aérospatiale et défense,135978
+EssilorLuxottica SA (ESLX),"108,15","46,01","44,3","0,78","2,44","2,04 (1,13%)",436.779.219,Matériel médical et fournitures,150616
+Orange SA (ORAN),"11,33","30,16","11,11","0,54","1,02","0,70 (6,15%)",2.650.313.631,Services de communication,135619
+Engie SA (ENGIE),"9,36","22,66","28,86","1,07","0,32","0,8 (4,82%)",2.413.131.292,Fournisseurs d'électricité,171000
+Hermès International SCA (HRMS),"617,2","65,25","42,43","0,61","14,55","4,55 (0,75%)",104.207.783,Vêtements / accessoires,15417
+Kering SA (PRTP),477,"59,43","27,6","1,1","17,28","11,50 (2,46%)",126.279.322,Détaillants (vêtements),38068
+L'Oréal SA (OREP),240,"133,95","36,02","0,53","6,66","4,25 (1,81%)",558.117.205,Produits personnels et ménagers,86030
+LVMH Moet Hennessy Louis Vuitton SE (LVMH),"344,5","171,97","24,2","1,02","14,23","6,80 (2,00%)",503.652.374,Vêtements / accessoires,147715
+Legrand SA (LEGD),"59,16","16,2","19,07","0,94","3,1","1,42 (2,37%)",273.682.252,Instruments et commandes électroniques,38644
+Compagnie Générale des Etablissements Michelin SCA (MICP),"86,06","15,69","8,91","1,03","9,66","2,00 (2,41%)",179.002.555,Pneumatiques,127200
+Pernod Ricard SA (PERP),"135,3","35,3",N/A,"0,59",N/A,"3,12 (2,31%)",263.825.497,Boissons (alcoolisées),19140
+Peugeot SA (PEUP),"13,64","11,9","4,01","1,64","3,4","1,23 (9,55%)",894.884.478,Constructeurs automobiles et de camions,196885
+Publicis Groupe (PUBP),"29,28","6,9","8,27","0,75","3,54","2,30 (7,81%)",236.956.827,Publicité,73853
+Renault SA (RENA),"18,48","5,28",N/A,"1,54"," - 0,54","1,10 (6,09%)",291.022.000,Constructeurs automobiles et de camions,183002
+Safran SA (SAF),72,"35,56","12,81","1,27","5,62","2,38 (1,1%)",477.028.673,Aérospatiale et défense,95443
+Compagnie de Saint-Gobain SA (SGOB),"25,24","13,48","9,77","1,21","2,58","1,38 (5,72%)",542.087.728,Construction - matériaux et équipements,170643
+Sanofi SA (SASY),84,"102,43","36,34","0,57","2,31","3,15 (3,71%)",1.253.826.630,Biotechnologie et médicaments,100409
+Schneider Electric SE (SCHN),"81,98","45,11","18,93","1,05","4,33","2,55 (3,14%)",551.021.671,Instruments et commandes électroniques,151297
+Societe Generale SA (SOGN),"14,6","12,04","4,77","1,66","3,06","2,20 (14,25%)",845.140.139,Banques régionales,138240
+Sodexo SA (EXHO),"65,32","9,32","14,51","0,96","4,5","2,90 (4,58%)",146.006.321,Restauration,470237
+STMicroelectronics NV (STM),"20,55","18,63","68,41","1,25","0,31","0,21 (1,10%)",887.810.197,Semi-conducteurs,43480
+Thales (TCFP),"74,22","15,25","14,1","0,68","5,26","2,65 (3,66%)",212.756.640,Matériel de communication,82605
+Total SA (TOTF),"34,27","86,52","8,87","0,88","3,83","2,68 (7,93%)",2.586.406.841,Activités pétrolières et gazières,107776
+WFD Unibail Rodamco NV (URW),"58,88","8,16","7,55","1,46","7,79","10,80 (21,43%)",138.378.605,Opérations immobilières,3625
+Veolia (VIE),"18,77","10,24","14,85","0,66","1,26","0,50 (2,75%)",554.756.150,Services de gestion des déchets,178780
+Vinci SA (SGEF),"71,92","40,09","12,37","0,83","5,81","3,05 (4,34%)",554.745.990,Services de construction,222000
+Vivendi SA (VIV),"20,88","24,59","16,1","0,73","1,3","0,60 (2,99%)",1.170.575.000,Industrie cinématographique,43900
+Worldline SA (WLN),"56,82","10,56","52,82","0,95","1,08",N/A (N/A),182.644.703,Services financiers aux consommateurs,11609
