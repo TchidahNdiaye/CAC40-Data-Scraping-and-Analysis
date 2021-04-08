@@ -1,0 +1,65 @@
+*------------------------------------------------------------*
+NODE = 5
+*------------------------------------------------------------*
+MISSING(PBR) OR (PBR < 1.3724)
+AND (DPR >= 5.1352)
+    PREDICTED VALUE IS value
+    PREDICTED grovalue = 0( 0/19)
+    PREDICTED growth = 0( 0/19)
+    PREDICTED risky = 0.05263( 1/19)
+    PREDICTED value = 0.9474( 18/19)
+*------------------------------------------------------------*
+NODE = 9
+*------------------------------------------------------------*
+(PER < -16.6558)
+AND MISSING(PCF) OR (PCF >= -0.1784)
+AND MISSING(PSR) OR (PSR < 2.7338)
+AND MISSING(DPR) OR (DPR < 5.1352)
+    PREDICTED VALUE IS risky
+    PREDICTED grovalue = 0( 0/2)
+    PREDICTED growth = 0( 0/2)
+    PREDICTED risky = 1( 2/2)
+    PREDICTED value = 0( 0/2)
+*------------------------------------------------------------*
+NODE = 4
+*------------------------------------------------------------*
+(PSR >= 2.7338)
+AND MISSING(DPR) OR (DPR < 5.1352)
+    PREDICTED VALUE IS growth
+    PREDICTED grovalue = 0( 0/15)
+    PREDICTED growth = 0.9333( 14/15)
+    PREDICTED risky = 0.06667( 1/15)
+    PREDICTED value = 0( 0/15)
+*------------------------------------------------------------*
+NODE = 7
+*------------------------------------------------------------*
+(PCF < -0.1784)
+AND MISSING(PSR) OR (PSR < 2.7338)
+AND MISSING(DPR) OR (DPR < 5.1352)
+    PREDICTED VALUE IS risky
+    PREDICTED grovalue = 0( 0/7)
+    PREDICTED growth = 0( 0/7)
+    PREDICTED risky = 1( 7/7)
+    PREDICTED value = 0( 0/7)
+*------------------------------------------------------------*
+NODE = 10
+*------------------------------------------------------------*
+MISSING(PER) OR (PER >= -16.6558)
+AND MISSING(PCF) OR (PCF >= -0.1784)
+AND MISSING(PSR) OR (PSR < 2.7338)
+AND MISSING(DPR) OR (DPR < 5.1352)
+    PREDICTED VALUE IS grovalue
+    PREDICTED grovalue = 0.925( 37/40)
+    PREDICTED growth = 0.075( 3/40)
+    PREDICTED risky = 0( 0/40)
+    PREDICTED value = 0( 0/40)
+*------------------------------------------------------------*
+NODE = 6
+*------------------------------------------------------------*
+(PBR >= 1.3724)
+AND (DPR >= 5.1352)
+    PREDICTED VALUE IS grovalue
+    PREDICTED grovalue = 1( 2/2)
+    PREDICTED growth = 0( 0/2)
+    PREDICTED risky = 0( 0/2)
+    PREDICTED value = 0( 0/2)
