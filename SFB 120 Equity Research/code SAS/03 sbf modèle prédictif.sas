@@ -7,7 +7,7 @@ run;
 ods excel file="/home/u44791576/thesis/sbf/SBF modèles prédictifs.xlsx" 
           options(sheet_interval="proc"
           embedded_titles="yes");
-/* PER PBR PSR PCF DPR ROA  */
+
 /* ********************* 00. ANOVA sur PER *********************** */
 proc glm data=work.sbf plots=all;
     class cah;
